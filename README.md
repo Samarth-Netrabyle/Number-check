@@ -1,0 +1,1 @@
+# To check a number is less than 5 or greater than 10 and display error message
